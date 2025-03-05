@@ -80,7 +80,7 @@ st.markdown("</div>", unsafe_allow_html=True)
 st.markdown(
     """
     <div class="footer-box">
-        All Rights Reserved © 2025 | Designed & Developed by <a href="https://github.com/imadityaim">Aditya Navakhande
+        All Rights Reserved © 2025 | Designed by <a href="https://github.com/imadityaim">Aditya Navakhande
     </div>
     """,
     unsafe_allow_html=True,
